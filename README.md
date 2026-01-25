@@ -316,3 +316,4 @@ erDiagram
     PRODUCT ||--o{ ORDER_ITEM : listed_in
     ORDER ||--o{ DELIVERY : tracked_by
     ORDER ||--|| PAYMENT : has
+
