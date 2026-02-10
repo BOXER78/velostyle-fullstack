@@ -23,3 +23,4 @@ export const fetchBackend = async (endpoint, options = {}) => {
 };
 
 export const checkHealth = () => fetchBackend('/');
+
