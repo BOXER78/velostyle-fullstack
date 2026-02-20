@@ -152,3 +152,4 @@ const BrandPartnership = () => {
 };
 
 export default BrandPartnership;
+
