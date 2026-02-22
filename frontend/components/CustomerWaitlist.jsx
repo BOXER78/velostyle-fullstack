@@ -177,3 +177,4 @@ const CustomerWaitlist = () => {
 };
 
 export default CustomerWaitlist;
+
